@@ -128,3 +128,16 @@ HR Regulation — Page 2
 **Majda Chouiekh**
 
 Artificial Intelligence & Data Science
+## Application Screenshots
+
+### AI Chatbot
+
+Ask questions about your documents and receive AI-generated answers with supporting source references.
+
+![Enterprise AI Copilot - Chatbot](screenshots/chatbot.png)
+
+### Document Management
+
+Upload, index, select, and manage multiple PDF documents.
+
+![Enterprise AI Copilot - Document Management](screenshots/documents.png)
