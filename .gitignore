@@ -1,0 +1,26 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+
+# Documents locaux
+data/pdf/
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
